@@ -26,7 +26,7 @@ A comprehensive Discord moderation bot built with `discord.js` v14 and Node.js. 
 
 ## Setup Instructions
 
-Insttal discord.js lastest version.
-Put your Bot informations in `config.json` file (get token and more from the Discord Developer Portal)
+Insttal discord.js lastest version. <br>
+Put your Bot informations in `config.json` file (get token and more from the Discord Developer Portal)<br>
 Run `index.js`
 
